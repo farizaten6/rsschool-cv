@@ -5,7 +5,7 @@
 ##### Phone: +7 771 441 49 24
 ##### E-mail: farizaten8@gmail.com
 ##### Telegram: @fariza6
-##### [GitHub:] https://github.com/farizaten6
+##### GitHub: https://github.com/farizaten6
 ---
 ### Summary:
   * experience in an agile development environment 
