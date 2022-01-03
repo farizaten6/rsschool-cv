@@ -51,6 +51,23 @@
   letter-spacing: 2px;
   color: #000000;
 }
+.nav-list {
+  padding: 0 0 0 0;
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 12px;
+}
+.nav-link {
+  line-height: 2px;
+  transition: 0.3s;
+}
+.nav-item {
+  margin: 0 2px;
+  color: #8000002d;
+  border-radius: 4px;
+}
 .main-container {
   display: flex;
   flex-wrap: wrap;
@@ -89,7 +106,7 @@
 }
 .main-section-title {
   font-family: "RalewayRegular";
-  font-size: 55px;
+  font-size: 45px;
   font-weight: 400;
   letter-spacing: 5px;
   color: #000000;
@@ -113,7 +130,7 @@
 }
 .section-title-span {
   font-family: "BirthstoneBounce";
-  font-size: 55px;
+  font-size: 45px;
   font-weight: 700;
   letter-spacing: 5px;
   color: #800000;
